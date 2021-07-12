@@ -1,16 +1,16 @@
 {
   "private": true,
-  "displayName": "Plugin Name",
-  "name": "homebridge-plugin-name",
+  "displayName": "Mi Air Conditioner MT6 CO2",
+  "name": "homebridge-mi-air-conditioner-mt6-co2",
   "version": "1.0.0",
-  "description": "A short description about what your plugin does.",
+  "description": "Display CO2 number.",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/USERNAME/GITHUB_PROJECT_NAME.git"
+    "url": "git://github.com/leeeboo/homebridge-xiaomi-air-conditioner-mt6-CarbonDioxideLevel.git"
   },
   "bugs": {
-    "url": "https://github.com/USERNAME/GITHUB_PROJECT_NAME/issues"
+    "url": "https://github.com/leeeboo/homebridge-xiaomi-air-conditioner-mt6-CarbonDioxideLevel/issues"
   },
   "engines": {
     "node": ">=10.17.0",

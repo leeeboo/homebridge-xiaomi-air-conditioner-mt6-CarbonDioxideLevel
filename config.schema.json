@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "ExampleHomebridgePlugin",
+  "pluginAlias": "XiaoMiAirConditionerMT6",
   "pluginType": "platform",
   "singular": true,
   "schema": {
